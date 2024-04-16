@@ -2,3 +2,31 @@ body
 {
   background-color: #CCFF00;
 }
+.odin{
+   text-align: center;
+}
+.dva{
+   text-align: center;
+}
+.tri{
+   text-align: center;
+}
+
+
+
+.thetiri{
+  display: block;
+   text-align: center;
+   background-color: white;
+}
+.pyt{
+   display: block;
+   text-align: center;
+   background-color:black;
+}
+
+.buttons{
+  
+  display: flex;
+
+}
