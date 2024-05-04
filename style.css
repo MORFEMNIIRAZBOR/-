@@ -1,6 +1,4 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
-body
 {
   background-color: #CCFF00;
 }
@@ -33,8 +31,8 @@ body
   text-decoration:none;
 }
   .button-left{
-     background-color:black;
-    color:white;
+     background-color:white;
+    color:black;
   text-align: center;
   
   
