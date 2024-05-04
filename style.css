@@ -6,12 +6,15 @@ body
 }
 .odin{
    text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
 }
 .dva{
    text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
 }
 .tri{
    text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
 }
 
 
